@@ -1,10 +1,9 @@
-L2J Server Project
+L2 Catia Project
 ===
-
-L2J Server is an open-source server emulator fully written in Java for the famous Korean MMORPG.
+L2 Catia Server is an open-source server emulator fully Official Private Distribution for the famous Korean MMORPG.
 ---
 
-This page only gives very basic information, for the detailed information about building and developing L2J Server, please visit the developers forums.
+This page only gives very basic information, for the detailed information about building and developing L2 Catia, please visit the developers forums.
 
 - master branch is the latest High Five release
 
@@ -13,7 +12,7 @@ This page only gives very basic information, for the detailed information about 
 Legal
 ---
 
-L2J is distributed under the terms of GNU/GPL, we require you to:
+L2 Catia is distributed under the terms of GNU/GPL, we require you to:
 
 a) Preserve login notice. This gives us, L2J Developers, appropriate
 credit for our hard work done during our free time without any
@@ -38,14 +37,14 @@ High Five part 5 NA client fully updated.
 Links
 ---
 
-- [Web Site](http://www.l2jserver.com)
+- [Web Site](http://www.l2catia.tk)
 
-- [Forums](http://www.l2jserver.com/forum/)
+- [Forums](https://www.facebook.com/groups/1742473912655563)
 
-- [Live Support](https://gitter.im/L2J/L2J_Server)
+- [Live Support](http://www.l2catia.tk/contacto)
 
-- [Downloads](http://www.l2jserver.com/#downloads)
+- [Downloads](http://l2catia.tk/descargas)
 
-- [Documentation](https://bitbucket.org/l2jserver/l2j_server/wiki)
+- [Documentation](#)
 
-- [@l2jserver](https://twitter.com/l2jserver)
+- [Facebook](https://www.facebook.com/groups/1742473912655563)
